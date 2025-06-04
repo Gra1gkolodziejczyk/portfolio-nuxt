@@ -9,7 +9,7 @@
 
 <template>
   <h2 class="text-3xl sm:text-5xl mb-8 font-bold text-primary">
-    A propos de moi
+    À propos de moi
   </h2>
   <div class="grid gap-6">
     <TopicAboutMe
