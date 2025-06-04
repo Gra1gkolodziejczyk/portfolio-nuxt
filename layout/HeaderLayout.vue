@@ -1,5 +1,5 @@
 <template>
-    <UContainer>
+    <UContainer class="fixed top-0 left-0 right-0 z-50 bg-white">
         <header class="py-4">
             <nav class="flex items-center justify-between">
                 <!-- Logo -->
