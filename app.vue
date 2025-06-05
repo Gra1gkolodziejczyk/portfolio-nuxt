@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import AboutMe from './components/about/AboutMe.vue';
 import AccueilComponent from './components/accueil/AccueilComponent.vue';
+import CompetenceComponent from './components/competences/CompetenceComponent.vue';
 import Header from './layout/HeaderLayout.vue';
 </script>
 
@@ -9,5 +10,6 @@ import Header from './layout/HeaderLayout.vue';
     <Header />
     <AccueilComponent />
     <AboutMe />
+    <CompetenceComponent />
   </div>
 </template>
