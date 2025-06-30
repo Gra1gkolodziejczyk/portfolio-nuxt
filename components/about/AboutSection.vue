@@ -1,10 +1,10 @@
 <script setup lang="ts">
   import TopicAboutMe from './TopicAboutMe.vue';
-  import intellijIcon from '@/assets/intellijidea.svg';
-  import valiseIcon from '@/assets/valise.png';
-  import linkedinIcon from '@/assets/linkedin.svg';
-  import bitcoinIcon from '@/assets/bitcoin.svg';
-  import pepperIcon from '@/assets/pepper.png';
+  import intellijIcon from '~/public/intellijidea.svg';
+  import valiseIcon from '~/public/valise.png';
+  import linkedinIcon from '~/public/linkedin.svg';
+  import bitcoinIcon from '~/public/bitcoin.svg';
+  import pepperIcon from '~/public/pepper.png';
 </script>
 
 <template>

@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import AboutMe from './components/about/AboutMe.vue';
 import AccueilComponent from './components/accueil/AccueilComponent.vue';
-import CompetenceComponent from './components/competences/CompetenceComponent.vue';
 import Header from './layout/HeaderLayout.vue';
+import SkillComponent from "~/components/competences/SkillComponent.vue";
 </script>
 
 <template>
@@ -10,6 +10,6 @@ import Header from './layout/HeaderLayout.vue';
     <Header />
     <AccueilComponent />
     <AboutMe />
-    <CompetenceComponent />
+    <SkillComponent />
   </div>
 </template>

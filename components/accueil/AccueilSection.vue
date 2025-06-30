@@ -11,13 +11,13 @@
       <div class="flex flex-row gap-4 mt-4">
         <p class="font-bold text-lg sm:pt-1">Stack techniques :</p>
         <div class='flex flex-row items-center justify-center text-center gap-2'>
-          <img src="../../assets/react.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/tailwindcss.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/typescript.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/nestjs.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/prisma.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/nuxtjs.svg" alt="" class="w-8 h-8">
-          <img src="../../assets/laravel.svg" alt="" class="w-8 h-8">
+          <img src="../../public/react.svg" alt="" class="w-8 h-8">
+          <img src="../../public/tailwindcss.svg" alt="" class="w-8 h-8">
+          <img src="../../public/typescript.svg" alt="" class="w-8 h-8">
+          <img src="../../public/nestjs.svg" alt="" class="w-8 h-8">
+          <img src="../../public/prisma.svg" alt="" class="w-8 h-8">
+          <img src="../../public/nuxtjs.svg" alt="" class="w-8 h-8">
+          <img src="../../public/laravel.svg" alt="" class="w-8 h-8">
           <p class='font-bold flex items-center justify-center text-black dark:text-white'>
               ... et plus encore
             </p>
@@ -36,7 +36,7 @@
       class='max-w-[1200px] flex justify-center items-center content-center text-center w-1/3'
     >
       <img
-        src="../../assets/moi.png"
+        src="../../public/moi.png"
         alt='avatar'
         class='w-96 aspect-square object-cover rounded-full border-8 border-primary p-2 dark:border-primary max-xl:hidden'
       >

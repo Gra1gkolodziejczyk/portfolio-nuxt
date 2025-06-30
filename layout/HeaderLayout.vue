@@ -5,7 +5,7 @@
                 <!-- Logo -->
                 <div class="flex items-center">
                     <NuxtLink to="/" class="flex items-center space-x-2">
-                        <img src="../assets/nuxtjs.svg" alt="Logo" class="w-8 h-8">
+                        <img src="../public/nuxtjs.svg" alt="Logo" class="w-8 h-8">
                     </NuxtLink>
                 </div>
 
@@ -60,7 +60,7 @@
             >
                 <div v-if="isOpen" class="md:hidden absolute left-0 right-0 p-4 bg-white dark:bg-gray-800 shadow-lg rounded-b-lg">
                     <div class="flex flex-col space-y-4">
-                        <NuxtLink 
+                        <NuxtLink
                             v-for="(link, index) in [
                                 { to: '/', text: 'Accueil' },
                                 { to: '/about', text: 'À propos de moi' },
